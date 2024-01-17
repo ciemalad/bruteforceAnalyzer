@@ -29,10 +29,13 @@ Bruteforce Analyzer to projekt do analizy logów i wykrywania ataków bruteforce
     pip install requirements.txt
     ```
 
-3. Zaimportuj plik ip_rep.sql do PostgreSQL:
+3. W katalogu projektu utwórz plik o nazwie "apikeys.txt". W pierwszej linii powinien znaleźć się klucz API do AbuseIPDB, a w drugiej klucz API Virustotal
+   
+
+5. Zaimportuj plik ip_rep.sql do PostgreSQL:
 
     
-5. Uruchom aplikację:
+6. Uruchom aplikację:
 
     ```bash
     python main.py
