@@ -1,10 +1,10 @@
 # Bruteforce Analyzer
 
-Bruteforce Analyzer to projekt do analizy logów i wykrywania ataków bruteforce. Program sprawdza również adresy IP powiązane z atakiem oraz podaje numer i usługę na atakowanym porcie. 
+Bruteforce Analyzer to projekt do analizy logów i wykrywania ataków brute force. Program sprawdza również adresy IP powiązane z atakiem oraz podaje numer i usługę na atakowanym porcie. 
 
 ## Funkcje
 
-- Wykrywanie ataków bruteforce w logach
+- Wykrywanie ataków brute force w logach
 - Graficzny interfejs
 - Możliwość zmiany wyszukiwanych wzorców ataku
 - Wyświetlenie reputacji adresów IP podejrzanych o atak
@@ -17,7 +17,7 @@ Bruteforce Analyzer to projekt do analizy logów i wykrywania ataków bruteforce
 
 ## Instalacja
 
-1. Zklonuj repozytorium:
+1. Sklonuj repozytorium:
 
     ```bash
     git clone https://github.com/ciemalad/bruteforceAnalyzer.git
