@@ -1,4 +1,4 @@
-# Bruteforce Analyzer
+# Brute force Analyzer
 
 Bruteforce Analyzer to projekt do analizy logów i wykrywania ataków brute force. Program sprawdza również adresy IP powiązane z atakiem oraz podaje numer i usługę na atakowanym porcie. 
 
